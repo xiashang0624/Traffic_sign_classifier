@@ -12,7 +12,12 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./images/Raw_image.png "Visualization"
-
+[image2]: ./images/Image_of_labels.png "Visualization"
+[image3]: ./images/Count_in_test.png "Visualization"
+[image4]: ./images/Count_in_valid.png "Visualization"
+[image5]: ./images/Count_of_train.png "Visualization"
+[image6]: ./images/Gray_image_augment.png "Visualization"
+[image7]: ./images/Raw_image.png "Visualization"
 ### Data Set Summary & Exploration
 
 #### 1. Provide a basic summary of the data set. In the code, the analysis should be done using python, numpy and/or pandas methods rather than hardcoding results manually.
@@ -31,6 +36,14 @@ signs data set:
 Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
 
 ![alt text][image1]
+[image2]
+[image3]
+[image3]
+[image4]
+
+[image5]
+[image6]
+[image7]
 
 ### Design and Test a Model Architecture
 
